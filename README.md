@@ -1,1 +1,7 @@
-这里用于汇总各个候选队员的任务完成情况，请在自己的分支下面创建以自己名字命名的文件夹，文件夹目录结构如`example_your_name`所示。
+## Readme Tutorial
+- Author:Chenrj-Chenc
+- Revised:Chenrj-Chenc
+- Date:2018-10-06
+- Version:1.0.0
+- Abstract:there are three tasks submit,including programming_exercise,shell_exercise and timer_exercise
+
